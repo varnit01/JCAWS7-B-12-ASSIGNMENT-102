@@ -1,0 +1,46 @@
+Oustion 1
+Output: Aarushi15
+
+Qustion 8
+Output:
+Set 1: [A, B, C, D]
+Set 2: [E]
+Set 3: [A, B, C, D, E]
+Set 4: [A, B, C]
+
+Qustion 10
+Output:
+A) error 2
+
+Qustion 14
+Output:
+B) You cannot specify which thread will get notified
+
+Qustion 15
+Output:
+C)The event listener should cancel the lengthy task if it is not complete in a speciﬁc time
+
+Qustion 16
+Output:
+C)
+The program does not compile because this cannot be referenced in a static method.
+
+Qustion 17
+Output:
+123112233
+
+Qustion 18
+Output:
+A) Running a Query and Retrieving a ResultSet Object
+
+Qustion 22
+Output:
+A)Only 1 and 3
+
+Qustion 24
+Output:
+B) @ApplicationScoped
+
+Qustion 25
+Output:
+D) configuration helps defines a minimum set of class libraries for a wide range of devices, and a profile defines the set of APIs available for a particular family of devices.
